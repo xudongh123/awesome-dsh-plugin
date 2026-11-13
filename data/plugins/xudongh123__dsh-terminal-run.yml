@@ -1,0 +1,6 @@
+url: https://github.com/xudongh123/dsh-terminal-run
+name: xudongh123/dsh-terminal-run
+category: ui
+description:
+  en: 'Adds a run button to shell code blocks that sends the snippet to the session right sidebar terminal, opening one when there is none.'
+  zh: 为 shell 代码块加「运行」按钮，把命令发送到该会话的右侧栏终端执行，没有终端时自动新建一个。
